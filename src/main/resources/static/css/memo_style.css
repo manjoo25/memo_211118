@@ -1,0 +1,24 @@
+header {
+    height: 80px;
+    background-color: #ccc;
+}
+
+.signIn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+table, th, td {
+    border: solid 1px #999;
+}
+
+th {
+    background-color: #ccc;
+}
+
+footer {
+    height: 70px;
+    background-color: #ccc;
+}
